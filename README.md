@@ -8,7 +8,7 @@ You've been given access to the complete data from their most recent animal stud
 
 (2)  Of the 4 treatments analyzed, the average tumor volume increased over time with the drugs Ceftamin and Infubinol.
 
-(3)  Capomulin showed the strong results in improving tumor volume but Ramicane was the best for the timeframe in the data. 
+(3)  Capomulin showed the strong results in improving tumor volume but Ramicane was the best for the timeframe in the data,of the 4 treatments analyzed.
 
 
 

@@ -6,7 +6,7 @@ You've been given access to the complete data from their most recent animal stud
 ## Final 3 Observations 
 (1)  Gender of the mice did not appear to have an impace on the effectiveness of the drug treatments.  This was ascertained by evaluating the ratio of male to female mice and comparing to the size of the tumors. 
 
-(2)  The average tumor volume increased over time with the drugs Ceftamin and Infubinol. 
+(2)  Of the 4 treatments analyzed, the average tumor volume increased over time with the drugs Ceftamin and Infubinol.
 
 (3)  Capomulin showed the strong results in improving tumor volume but Ramicane was the best for the timeframe in the data. 
 
